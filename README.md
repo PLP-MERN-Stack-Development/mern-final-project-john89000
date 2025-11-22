@@ -8,8 +8,8 @@ A comprehensive full-stack task management system built with MongoDB, Express.js
 
 ## 🚀 Live Demo
 
-- **Frontend:** [Coming Soon]
-- **Backend API:** [Coming Soon]
+- **Frontend:** https://mern-final-project-john89000-vx1m.vercel.app/
+- **Backend API:** https://task-manager-backend-q2q0.onrender.com
 - **Video Demo:** [Coming Soon]
 
 ## ✨ Features
